@@ -1,5 +1,6 @@
 # MultiscaleElasticWovenNeuralNet
 The original data bases and codes related to "A multiscale deep learning model for elastic properties of woven composites"
+
 Collabrators: Ehsan Ghane, Martin Fagerström, Mohsen Mirkhalaf
 
 Abstract:
