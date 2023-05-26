@@ -1,5 +1,6 @@
 # MultiscaleElasticWovenNeuralNet
 The original data bases and codes related to "A multiscale deep learning model for elastic properties of woven composites"
+Collabrators: Ehsan Ghane, Martin Fagerström, Mohsen Mirkhalaf
 
 Abstract:
 This repository contains the Jupyter code implementations of micromechanical and mesoscale neural networks for the multiscale analysis of elastic woven composites. Additionally, it includes the necessary input data for the models and the trained models stored as h5 files.
