@@ -5,7 +5,7 @@ Abstract:
 This repository contains the Jupyter code implementations of micromechanical and mesoscale neural networks for the multiscale analysis of elastic woven composites. Additionally, it includes the necessary input data for the models and the trained models stored as h5 files.
 
 Introduction:
-The analysis of composite materials often involves computationally expensive and time-consuming procedures. To address this issue and enable efficient multiscale analysis of composites, we propose the integration of neural networks and multiscale modeling techniques. This approach allows us to bypass the need for costly lower-scale material modeling and accelerates coupled multiscale analyses (FE^2).
+The analysis of composite materials often involves computationally expensive and time-consuming procedures. To address this issue and enable efficient multiscale analysis of composites, we propose the integration of neural networks and multiscale modeling techniques. This approach allows us to bypass the need for costly lower-scale material modeling and accelerates coupled multiscale analyses.
 
 Micromechanical Neural Networks:
 In this work, we focus on replacing the time-consuming micromechanical finite element analysis of unidirectional composites. Our micromechanical neural networks capture the local material properties of yarns in woven fabric composites within a multiscale framework. By leveraging a fast multiscale data generation procedure, these neural networks provide a more efficient alternative for estimating the behavior of unidirectional composites.
