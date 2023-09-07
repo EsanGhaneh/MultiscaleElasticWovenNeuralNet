@@ -31,7 +31,8 @@ Please refer to the accompanying paper for a detailed explanation of the methodo
 
 Citation:
 If you use the code or models in this repository, please cite the corresponding paper:
-
+Ghane, E., M. Fagerström, and S. M. Mirkhalaf. "A multiscale deep learning model for elastic properties of woven composites." International Journal of Solids and Structures (2023): 112452.
+or BibTeX:
 @article{ghane2023multiscale,
   title={A multiscale deep learning model for elastic properties of woven composites},
   author={Ghane, E and Fagerstr{\"o}m, M and Mirkhalaf, SM},
