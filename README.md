@@ -32,6 +32,13 @@ Please refer to the accompanying paper for a detailed explanation of the methodo
 Citation:
 If you use the code or models in this repository, please cite the corresponding paper:
 
-[Insert Paper Citation Here]
+@article{ghane2023multiscale,
+  title={A multiscale deep learning model for elastic properties of woven composites},
+  author={Ghane, E and Fagerstr{\"o}m, M and Mirkhalaf, SM},
+  journal={International Journal of Solids and Structures},
+  pages={112452},
+  year={2023},
+  publisher={Elsevier}
+}
 
-We hope this repository serves as a valuable resource for the multiscale analysis of elastic woven composites using neural networks. For any inquiries or issues, please contact [Insert Contact Information].
+We hope this repository serves as a valuable resource for the multiscale analysis of elastic woven composites using neural networks. For any inquiries or issues, please contact [ehsan.ghane@physics.gu.se].
