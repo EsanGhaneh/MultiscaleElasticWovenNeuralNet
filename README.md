@@ -47,3 +47,7 @@ or BibTeX:
 }
 
 We hope this repository serves as a valuable resource for the multiscale analysis of elastic woven composites using neural networks. For any inquiries or issues, please contact [ehsan.ghane@physics.gu.se].
+
+## License
+
+The code (the Jupyter notebooks) is released under the [MIT License](LICENSE). The data, trained models and simulation files are released under [CC BY 4.0](LICENSE-DATA): you may reuse them, for example in teaching, if you cite the paper above.

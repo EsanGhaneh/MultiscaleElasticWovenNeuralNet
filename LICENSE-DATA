@@ -1,0 +1,23 @@
+Data, trained models and simulation files
+
+Copyright (c) 2023 Ehsan Ghane, Martin Fagerström, Mohsen Mirkhalaf
+
+The following files are licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+(full legal text: https://creativecommons.org/licenses/by/4.0/legalcode):
+
+  ElasEngCoefDataSet.xlsx
+  features_final_version.xlsx
+  Predictor.rar
+  MesoScalePredictor.rar
+  SampleMesoscaleWovenElasticAbaqusExportedFromTexGen.rar
+  ShortVersion_SampleMesoscalJob_1.inp
+  job_1.inp
+  _TexGen_base_file.ori
+
+You may share and adapt them for any purpose, including teaching and commercial
+use, provided you give appropriate credit by citing:
+
+  Ghane, E., Fagerström, M., Mirkhalaf, S. M. (2023). A multiscale deep learning
+  model for elastic properties of woven composites. International Journal of
+  Solids and Structures, 112452. https://doi.org/10.1016/j.ijsolstr.2023.112452
